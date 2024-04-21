@@ -1,0 +1,8 @@
+.vscode
+.mono
+commonFunctionality/bin
+commonFunctionality/obj
+producer/bin
+producer/obj
+consumer/bin
+consumer/obj
